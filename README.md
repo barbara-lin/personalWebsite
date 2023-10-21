@@ -1,10 +1,12 @@
-# Exploration
-my journey in making a personal website
+# EXPLORATION!!!
+My journey in making a personal website :)
 
 ```bash
 npm run dev
+```
 
-# or start the server and open the app in a new browser tab
+## To start the server and open the app in a new browser tab
+```bash
 npm run dev -- --open
 ```
 
@@ -14,12 +16,16 @@ npm run dev -- --open
 
 ## Building
 
-To create a production version of your app:
+To create a production version:
 
 ```bash
 npm run build
 ```
 
-You can preview the production build with `npm run preview`.
+Peview the production build with:
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+```bash
+npm run preview
+```
+
+> To deploy app, might need to install an [adapter](https://kit.svelte.dev/docs/adapters) for the target environment
