@@ -1,18 +1,17 @@
 <script>
-	//export let name;
 	import './styles.css';
 </script>
 
 
 <main>    
 
-	<h1>Barbara Lin</h1>
+	<h1>the evidence of atomization. the proof that things fall apart.</h1>
 	
 	<h2>
-		"for what is a map but a way of emphasizing some things and making others invisible?"
+		
 	</h2>
 
-	<div class="backWall">
+	<div class="back">
 	</div>
 	
 </main>
@@ -28,7 +27,7 @@
 <style>
 	main {
 		text-align: center;
-		padding: 1em;
+		padding: 0em;
 		max-width: 240px;
 		margin: 0 auto;
 	}
@@ -37,13 +36,14 @@
 	}
 
 	h1 {
-		color: #d4880c;
+		color: #20190f;
 		text-transform: uppercase;
-		font-size: 45em;
+		font-size: 5em;
 		font-family:Georgia, 'Times New Roman', Times, serif;
-		font-weight: 900;
-		font-stretch: 125%;
+		font-weight: 600;
+		font-stretch: 100%;
 		padding: 0;
+		letter-spacing: 0.3em;
 	}
 
 	h2 {
@@ -51,16 +51,16 @@
 		text-decoration-thickness: 10em;
 		font-stretch: 90%;
 		text-transform:uppercase;
-		font-size: 6em;
+		font-size: 1em;
 	}
 
-	.backWall {
+	.back {
     position: absolute;
     height: 100%;
     width: 100%;
 	top:0;
-	background-image: url("https://images.unsplash.com/photo-1528459135417-42dfc609ce87?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=annie-spratt-DwPLi_mvKpw-unsplash.jpg&w=2400");
-    background: size 50%;
+	background-image: url("../lib/images/bookpage.jpg");
+    background-size: cover;
     z-index: -1;
     }
 

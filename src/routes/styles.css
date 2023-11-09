@@ -1,11 +1,13 @@
 
-.underline {
+/*.underline {
     text-decoration: wavy;
-}
+}*/
 
 header {
     display: flex;
+    justify-content:center;
     justify-content: space-between;
+    align-items: center;
 }
 
 nav {
@@ -15,7 +17,7 @@ nav {
     align-items: center;
     color: rgb(58, 54, 22);
     font-weight: 700;
-    font-size:10rem;
+    font-size:1rem;
     text-transform: uppercase;
     letter-spacing: 0.6em;
     text-decoration:wavy;
