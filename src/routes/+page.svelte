@@ -1,6 +1,6 @@
 <script>
-	export let name;
-	//import './styles.css';
+	//export let name;
+	import './styles.css';
 </script>
 
 
@@ -59,7 +59,7 @@
     height: 100%;
     width: 100%;
 	top:0;
-	background-image: url("https://images.unsplash.com/photo-1551908325-9bd4c5c33171?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=lachlan-thompson-SwgiWNurMuM-unsplash.jpg");
+	background-image: url("https://images.unsplash.com/photo-1528459135417-42dfc609ce87?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=annie-spratt-DwPLi_mvKpw-unsplash.jpg&w=2400");
     background: size 50%;
     z-index: -1;
     }
