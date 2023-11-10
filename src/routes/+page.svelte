@@ -33,6 +33,7 @@
 	}
 
 	body {
+
 	}
 
 	h1 {
@@ -48,7 +49,6 @@
 
 	h2 {
 		color:rgb(208, 157, 39);
-		text-decoration-thickness: 10em;
 		font-stretch: 90%;
 		text-transform:uppercase;
 		font-size: 1em;

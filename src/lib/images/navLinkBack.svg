@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <clipPath id="clipPathHome">
+            <path d="M0,0 H5 L15,25 H10 L5,12 L0,25 H-5 L5,0"></path>
+        </clipPath>
+        <clipPath id="clipPathAbout">
+            <path d="M0,0 H30 L15,25 H0 L0,0"></path>
+        </clipPath>
+        <!-- Add more clip paths for other words if needed -->
+    </defs>
+</svg>
