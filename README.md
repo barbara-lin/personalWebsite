@@ -1,5 +1,5 @@
-# EXPLORATION!!!
-My journey in making a personal website :)
+# Personal Website (Svelte Edition)
+Welcome to the repository for my personal website built with Svelte. This project marks my exploration in creating a personal website using the modern Svelte framework.
 
 ```bash
 npm run dev
